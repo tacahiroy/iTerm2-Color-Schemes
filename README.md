@@ -125,6 +125,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### Banana Blueberry
+
+![Screenshot](screenshots/banana_blueberry.png)
+
 ### Batman
 
 ![Screenshot](screenshots/batman.png)
@@ -148,10 +152,6 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### BlueBerry Pie
 
 ![Screenshot](screenshots/blueberry_pie.png)
-
-### Blueberry Banana
-
-![Screenshot](screenshots/blueberry_banana.png)
 
 ### Blue Matrix
 

@@ -48,6 +48,10 @@ Screenshots
 
 ![image](ayu_light.png)
 
+`banana_blueberry.png`
+
+![image](banana_blueberry.png)
+
 `batman.png`
 
 ![image](batman.png)
@@ -71,10 +75,6 @@ Screenshots
 `blue_matrix.png`
 
 ![image](blue_matrix.png)
-
-`blueberry_banana.png`
-
-![image](blueberry_banana.png)
 
 `borland.png`
 
@@ -719,4 +719,3 @@ Screenshots
 `zenburn.png`
 
 ![image](zenburn.png)
-
